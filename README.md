@@ -60,7 +60,7 @@ Engineer and DevSecOps long term.
 
 ---
 
-### Splunk SIEM Lab *(https://github.com/CodeBroKinty/splunk-siem-lab)*
+### [Splunk SIEM Lab](https://github.com/CodeBroKinty/splunk-siem-lab) *
 > Deployed Splunk, ingested endpoint and authentication log data, and performed threat 
 > hunting using SPL queries. Identified simulated security incidents including failed 
 > login patterns, off-hours authentication, and privilege escalation attempts. 
@@ -70,7 +70,7 @@ Engineer and DevSecOps long term.
 
 ---
 
-### Wazuh EDR Homelab *(https://github.com/CodeBroKinty/wazuh-edr-homelab)*
+### [Wazuh EDR Homelab](https://github.com/CodeBroKinty/wazuh-edr-homelab)
 > Deployed Wazuh open source EDR platform across a multi-OS homelab environment 
 > (Windows and Linux). Configured endpoint agents, triggered and analyzed security 
 > alerts including failed logins and file integrity changes, and documented findings 
