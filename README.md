@@ -66,7 +66,7 @@ Deployed Wazuh open-source EDR platform across a multi-OS homelab environment (W
 ### [Wireshark Network Traffic Analysis Lab](https://github.com/CodeBroKinty/wireshark-lab) 
 Performed live packet capture, traffic baselining, and SOC-style forensic triage of a real-world NetSupport Manager RAT infection using Wireshark on Parrot OS. Identified all 5 IOCs from raw packet data including infected host IP, MAC, hostname, user account, and full name. Includes incident report, IOC documentation, and annotated screenshots.
 
-**Skills:** Wireshark · Packet Analysis · Network Forensics · TCP/IP · DNS · Kerberos · NBNS · SAMR · Nmap · Parrot OS · Linux · Incident Response · IOC Extraction · C2 Traffic Detection · Display Filter Development · Threat Triage
+**Skills:** Wireshark, Packet Analysis, Network Forensics, TCP/IP, DNS, Kerberos, NBNS, SAMR, Nmap, Parrot OS, Linux, Incident Response, IOC Extraction, C2 Traffic Detection, Display Filter Development, Threat Triage
 ---
 
 ### Active Directory / IAM Lab
