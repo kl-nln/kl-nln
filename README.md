@@ -20,7 +20,7 @@ In progress: AWS Certified Cloud Practitioner and AWS AI Practitioner (Target: A
 
 ## Featured Projects
 
-### AD IAM Auditor: Python Security Tool
+### [AD IAM Auditor: Python Security Tool](https://github.com/kl-nln/ad-iam-auditor)
 
 A modular Python tool that connects live to Active Directory via LDAPS and runs 4 automated IAM security checks, generating professional timestamped PDF and HTML audit reports.
 
@@ -45,7 +45,7 @@ Live audit results against corp.local: 14 users scanned, 2 cross-department viol
 
 ---
 
-### Wireshark Network Traffic Analysis Lab
+### [Wireshark Network Traffic Analysis Lab](https://github.com/kl-nln/wireshark-lab)
 
 Performed live packet capture, traffic baselining, and SOC-style forensic triage of a real-world NetSupport Manager RAT infection using Wireshark 4.4.14 on Parrot OS.
 
@@ -58,7 +58,7 @@ Performed live packet capture, traffic baselining, and SOC-style forensic triage
 
 ---
 
-### Python Security Automation Labs
+### [Python Security Automation Labs](https://github.com/kl-nln/python-automation-labs)
 
 18 production-ready security automation tools covering enterprise security domains.
 
@@ -82,7 +82,7 @@ Performed live packet capture, traffic baselining, and SOC-style forensic triage
 
 ---
 
-### Active Directory IAM Lab
+### [Active Directory IAM Lab](https://github.com/kl-nln/active-directory-iam-lab)
 
 Designed and administered a simulated corporate IAM environment on Windows Server 2025 demonstrating the full identity lifecycle.
 
@@ -97,7 +97,7 @@ Designed and administered a simulated corporate IAM environment on Windows Serve
 
 ## Homelab Projects
 
-### Splunk SIEM Lab
+### [Splunk SIEM Lab](https://github.com/kl-nln/splunk-siem-lab)
 
 Deployed Splunk, ingested endpoint and authentication log data, and performed threat hunting using SPL queries. Identified simulated security incidents including failed login patterns, off-hours authentication, and privilege escalation attempts. Documented findings in incident report format.
 
@@ -105,19 +105,11 @@ Deployed Splunk, ingested endpoint and authentication log data, and performed th
 
 ---
 
-### Wazuh EDR Homelab
+### [Wazuh EDR Homelab](https://github.com/kl-nln/wazuh-edr-homelab)
 
 Deployed Wazuh open-source EDR across a multi-OS homelab environment (Parrot OS and Windows). Configured endpoint agents, triggered and analyzed security alerts including failed logins and file integrity changes, and documented findings using industry-standard incident reporting format.
 
 **Skills:** EDR, Wazuh, Endpoint Monitoring, Alert Triage, Incident Reporting, Parrot OS, Linux, Windows Server
-
----
-
-### Virtualized Attack / Defense Lab
-
-VirtualBox environment running Kali Linux (attacker), Parrot OS, Ubuntu (analyst), and Windows (victim) for penetration testing, log analysis, and defensive security practice.
-
-**Skills:** Kali Linux, Parrot OS, Ubuntu, Windows, VirtualBox, Network Scanning, Threat Analysis
 
 ---
 
@@ -146,7 +138,7 @@ VirtualBox environment running Kali Linux (attacker), Parrot OS, Ubuntu (analyst
 | Platform | Path | Status |
 |---|---|---|
 | TryHackMe | Pre-Security Path | Completed |
-| TryHackMe | Cyber Security Path | 60% Complete |
+| TryHackMe | Cyber Security Path | 75% Complete |
 | AWS | Cloud Practitioner | In Progress (Target: August 2026) |
 
 ---
