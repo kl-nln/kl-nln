@@ -139,7 +139,7 @@ Deployed Wazuh open-source EDR across a multi-OS homelab environment (Parrot OS 
 |---|---|---|
 | TryHackMe | Pre-Security Path | Completed |
 | TryHackMe | Cyber Security Path | 75% Complete |
-| AWS | Cloud Practitioner | In Progress (Target: August 2026) |
+| AWS | Cloud Practitioner & AI Practioner | In Progress (Target: August 2026) |
 
 ---
 
@@ -164,7 +164,7 @@ Deployed Wazuh open-source EDR across a multi-OS homelab environment (Parrot OS 
 
 ## Connect
 
-[X / Twitter](https://x.com/kl_nln) | [Substack](https://substack.com/@kl-nln)
+[X / Twitter](https://x.com/kl_nln) | [Substack](https://substack.com/@klnln)
 
 DFW Area — Remote and Hybrid Open
 
