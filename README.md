@@ -7,6 +7,7 @@ and production-ready.
 Currently targeting Security Analyst and SOC Analyst roles 
 while building toward Cloud Security Engineer and AI Security 
 Engineer long term.
+
 ---
 
 ## Certifications
